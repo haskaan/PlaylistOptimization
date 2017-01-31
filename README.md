@@ -7,10 +7,10 @@ Optimization of CSV playlist history and calculation of statistical information.
 **DESCRIPTION**
 <br />
 <br />
-VS ile direkt çalıştırıldığında çıktı sonuçları Resources altında oluşmaktadır. <br />
+VS ile direkt çalıştırıldığında çıktı sonuçları **Resources** dizini altında oluşmaktadır. <br />
 Eğer program manuel olarak parametre verilip çalıştırılırsa verilen parametredeki yol/dizin üzerinde oluşmaktadır.
 <br />
 <br />
 **Çıktı Sonuçları;**
-* ClientPlaylistHistories.txt -> ClientID başına farklı çalınan müzik sayısı.
-* PlaylistStatistics.txt -> PDF üzerinde verilen istatistik sonuçları.(ÖNEMLİ)
+* **ClientPlaylistHistories.txt** -> ClientID başına farklı çalınan müzik sayısı.
+* **PlaylistStatistics.txt** -> PDF üzerinde verilen istatistik sonuçları.(ÖNEMLİ)
